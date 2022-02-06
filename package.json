@@ -1,0 +1,28 @@
+{
+  "name": "lab3_restaurant_database",
+  "version": "1.0.0",
+  "description": "Lab exercise 3 for Full Stack Dev II",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate-power/lab3_restaurant_database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nate-power/lab3_restaurant_database/issues"
+  },
+  "homepage": "https://github.com/nate-power/lab3_restaurant_database#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
